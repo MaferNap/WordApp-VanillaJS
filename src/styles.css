@@ -1,0 +1,56 @@
+.frame {
+  position: relative;
+  top: 25px;
+  border: solid;
+  border-color: peachpuff;
+  background-image: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
+  border-radius: 7px;
+  width: 60%;
+  margin: 0 auto;
+  padding: 10px;
+  text-align: center;
+  font-family: "Pangolin", cursive;
+}
+
+.searchbutton {
+  display: block;
+  color: plum;
+  background: paleturquoise;
+  border-radius: 6px;
+  border: lightblue;
+  transition: ease-in-out 300ms;
+  margin: 0 auto;
+}
+
+.searchbutton:hover {
+  border: lightblue;
+  color: paleturquoise;
+  background: plum;
+  font-size: 18px;
+}
+
+.wordBox {
+  border: none;
+  border-radius: 4px;
+  display: block;
+  margin: 0 auto;
+}
+
+.footer {
+  display: block;
+  text-align: center;
+  font-size: 12px;
+  font-family: "Courier New", Courier, monospace;
+  position: relative;
+  bottom: -30px;
+}
+
+.profile {
+  text-decoration: none;
+  color: #036ec5;
+}
+
+.code {
+  text-decoration: none;
+  color: #036ec5;
+}
