@@ -1,7 +1,7 @@
 .frame {
   position: relative;
   top: 25px;
-  border: solid;
+  border: none;
   border-color: peachpuff;
   background-image: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
   border-radius: 7px;
